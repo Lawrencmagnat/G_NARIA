@@ -6,7 +6,8 @@ According to the the Task given that we should create a token that correspond to
 Here is the Steps I took:
 
 Day 1-3: 
-
+Understand Fully well The task and what is an ERC20 tokens standard token...
+TBC
 
 
 
