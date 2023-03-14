@@ -1,4 +1,11 @@
-# G_NARIA
+# G_NARIA TOKEN.....
+
+Task to meet under 7days: 
+
+According to the the Task given that we should create a token that correspond to an ERC20 standard, that is mintable, burnable that also have a special owner called governor that can assign all this transcations..
+Here is the Steps I took:
+
+Day 1-3: 
 
 
 
